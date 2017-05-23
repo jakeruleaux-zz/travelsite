@@ -1,27 +1,21 @@
 *{
-  background-color: #66b2ff
+  background-color: #ff66b2
 }
 h1{
-  color: red;
   text-align: center;
+  font-family: fantasy;
+  font-size: 48px;
 }
 
-h2 {
-  font-style: italic;
+h2{
   text-align: center;
 }
-
 img{
   height: 500px;
   width: 550px;
   display: block;
     margin: auto;
 }
-p{
+#link{
   text-align: center;
-}
-
-ul{
-  text-align: center;
-  color: blue
 }
