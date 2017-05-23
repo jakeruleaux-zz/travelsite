@@ -1,0 +1,20 @@
+*{
+  background-color: beige;
+}
+h1{
+  text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+    font-family: cursive;
+  }
+  img{
+  display: block;
+    margin: auto;
+}
+#link{
+  text-align: center;
+}
